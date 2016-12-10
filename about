@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+   <head>
+	  <meta charset="UTF-8" />
+      <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+   	  <link rel="alternate" type="application/rss+xml" title="Sam Anzaroot &raquo; Feed" href="http://www.samanz.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sam Anzaroot &raquo; Comments Feed" href="http://www.samanz.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sam Anzaroot &raquo; About Sam Anzaroot Comments Feed" href="http://www.samanz.com/about/feed/" />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://www.samanz.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.samanz.com/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.samanz.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.samanz.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.samanz.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://www.samanz.com/' />
+<link rel='shortlink' href='http://wp.me/P45JRa-2' />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="About Sam Anzaroot" />
+<meta property="og:url" content="http://www.samanz.com/" />
+<meta property="og:description" content="I am a Data Scientist at Dataminr, working on performing analysis on the full Twitter fire-hose. Before Dataminr, I worked as an intern at Oracle Labs East, where I made contributions toward large ..." />
+<meta property="og:site_name" content="Sam Anzaroot" />
+<meta name="twitter:site" content="@jetpack" />
+<meta name="twitter:card" content="summary" />
+	<title>About Sam Anzaroot | Sam Anzaroot</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+		<link rel="pingback" href="http://www.samanz.com/xmlrpc.php" />
+		<script type="text/javascript" src="http://use.typekit.com/yan0ati.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+   </head>
+   <body class="page page-id-2 page-template-default">
+		<div id="access" role="navigation">
+					<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+						<div class="menu-header"><ul id="menu-contact-me" class="menu"><li id="menu-item-4" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-4"><a href="/">About Sam Anzaroot</a></li>
+</ul></div>	  </div><!-- #access -->
+      <div id = "branding">
+         <h1><a href = "/" title = "Go to Home Page"><img src = "images/logo.png" alt = "Sam Anzaroot" /></a></h1>
+         <h1 id = "textual"><a href = "/" title = "Go to Home Page">Sam Anzaroot</a></h1>
+         <h2>The web presence of,</h2>
+         <p></p>
+      </div>
+			<div id="content" role="main">
+
+			 <div id = "post">
+				<div id="post-2" class="post-2 page type-page status-publish hentry">
+											<h1 class="entry-title">About Sam Anzaroot</h1>
+							            <!--<p class = "date"></p>-->
+		            
+					<div class="entry-content">
+						<p>I am a Data Scientist at <a href="http://www.dataminr.com">Dataminr</a>, working on performing analysis on the full Twitter fire-hose. Before Dataminr, I worked as an intern at <a href="http://labs.oracle.com">Oracle Labs East</a>, where I made contributions toward large scale machine learning inference using GPU programming. (<a href="http://github.com/samanz" target="_blank">github</a>)(<a href="resume1.pdf" target="_blank">resume</a>)</p>
+<p>I have recently completed a masters degree at the <a href="http://cs.umass.edu">University of Massachusetts Amherst</a> specifically in the <a href="http://www.iesl.cs.umass.edu/">IESL lab</a> working with <a href="http://people.cs.umass.edu/~mccallum/">Andrew McCallum</a>. </p>
+<p>I completed my undergrad education at the <a href="http://www.cs.qc.cuny.edu/index.html">Computer Science department</a> at <a href="http://www.qc.cuny.edu">Queens College &#8211; City University of New York</a>. There I worked at a number of labs, mostly in the <a href="http://nlp.cs.rpi.edu/">Blender Lab</a> (now at RPI) with <a href="http://nlp.cs.rpi.edu/hengji.html">Heng Ji</a>.</p>
+<p>My interests lie in machine learning methods, most recently with applications in natural language processing. I am most fascinated by methods that prevent automatically learned models from making mistakes of the sort that humans would not have made, or the methods that help those models recover from such situations.</p>
+<p>My most recent work at UMass involves automatic field extraction from citation strings in research papers. Machine learning methods on this task often only includes local information about the labeling of the citation strings. In contrast, humans can use the fact that a field such as volume number is unlikely to appear twice in a citation while performing inference on such tasks. I am investigating the use of constrained inference of this manner in order to bring the performance of models on such tasks up to human levels.</p>
+<p>As an undergrad, I&#8217;ve worked with improving relation extraction by jointly doing inference over a large amount of automatically collected relations. We built a system that can detect unlikely collections of relations in a network. For example, this system can detect constraints such as that a company is unlikely to have been founded by somebody who does not live in the same country that the company is located in. The system proceeds to find the best configuration of relations that satisfies these learned constraints (joint work with <a href="https://sites.google.com/site/liqiearth/">Qi Li</a>). </p>
+<p>I&#8217;ve also done undergrad research at the <a href="https://sites.google.com/site/simstudentprojectweb/">SimStudent Lab</a> at <a href="http://www.hcii.cmu.edu/">CMU HCII</a> (NSF REU), at the <a href="http://agents.sci.brooklyn.cuny.edu/metrobotics/">MetroBotics</a> project at <a href="http://agents.sci.brooklyn.cuny.edu/">Agents Lab at Brooklyn College</a>(NSF REU), and the <a href="http://research.cs.tamu.edu/bnl/static/home.html">Brain Networks Lab</a> at <a href="http://cs.tamu.edu/">Texas A&amp;M</a>(NSF REU).</p>
+<p>I also enjoy creating useful and functional user-facing systems that interact with complex machinery. In the past I&#8217;ve created a web-based browsing system for browsing networks of entities and relations automatically extracted via machine learning systems. I&#8217;ve also produced a web-based browser of 3D brain scans that can be collaboratively annotated by researchers.</p>
+<h2>Publications</h2>
+<ul>
+<li><a href="http://www.aclweb.org/anthology/P/P14/P14-1056.pdf">Learning Soft Linear Constraints with Application to Citation Field Extraction</a>. <strong>Sam Anzaroot</strong>, Alexandre Passos, David Belanger, Andrew McCallum. <em>Proc. the 52nd Annual Meeting of the Association for Computational Linguistics (ACL2014)</em>, 2014.</li>
+<li><a href="http://openreview.net/file/8ac51b41-b3b0-46db-85dc-efb9525b93ea.pdf">A New Dataset for Fine-Grained Citation Field Extraction</a>. <strong>Sam Anzaroot</strong>, Andrew McCallum. <em>ICML Workshop on Peer Reviewing and Publishing Models (PEER)</em>, 2013.</li>
+<li><a href="http://nlp.cs.rpi.edu/paper/reasoning_cikm.pdf">Joint Inference for Crossdocument Information Extraction</a>. Qi Li, <strong>Sam Anzaroot</strong>, Wen-Pin Lin, Xiang Li and Heng Ji. <em>Proc. 20th ACM Conference on Information and Knowledge Management (CIKM2011).</em> 2011</li>
+<li><a href="http://aclweb.org/anthology//W/W11/W11-1215.pdf">Cross-lingual Slot Filling from Comparable Corpora</a>. Matthew Snover, Xiang Li, Wen-Pin Lin, Zheng Chen, Suzanne Tamang, Mingmin Ge, Adam Lee, Qi Li, Hao Li, <strong>Sam Anzaroot</strong>, Heng Ji. <em>Proc. ACL2011 Worshop on Building and Using Comparable Corpora.</em> 2011</li>
+<li><a href="http://www.sci.brooklyn.cuny.edu/~sklar/papers/sklar-et-al-aaai10rws.pdf">Developing a Framework for Team-based Robotics Research</a>. Elizabeth Sklar, Simon Parsons, Susan Epstein, Arif T. Ozgelen, George Rabanca, <strong>Sam Anzaroot</strong>, Joel Gonzalez, Jesse Lopez, Mitch Lustig, Linda Ma, Mark Manashirov, J. Pablo Munoz, S. Bruno Salazar, Miriam Schwartz. <em>AAAI 2010 Robotics Exhibition and Workshop</em>. 2011</li>
+<li>Search, Mining and Browsing Self-Boosting Multi-Dimensional Text-Rich Information Networks. <strong>Sam Anzaroot</strong>, Javier Artiles, Hao Li, Qi Li, Zheng Chen, Suzanne Tamang, Heng Ji, Hongbo Deng, Jiawei Han. <em>The Network Science Collaborative Technology Alliance Annual Meeting</em>. 2011 (presentation)</li>
+</ul>
+</div>
+																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+			    </div>
+
+				
+
+			</div><!-- #content -->
+
+			<div id = "secondary">
+		       <div class = "box" id = "about_small">
+		          <h3>About Me:</h3>
+		          <p>Sam is a Student, Machine Learner, NLPer, Programmer, Thinker, Reader, Reviewer and a Biped.</p>
+		       </div>
+			<ul class = "box">
+								<li id="twitter_timeline-2" class="widget-container widget_twitter_timeline"><h3 class="widget-title">Twitter</h3></li>						</ul>
+		          <a href = "http://www.twitter.com/giantfoxpaws" id = "twitter"><img src = "images/follow_me.gif" alt = "Follow me on Twitter" /></a>
+		    </div>
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="footer-widget-area" role="complementary">
+
+				<div id="songs" class="widget-area">
+					<ul class="xoxo">
+								<li id="ilast-fm" class="widget-container widget_ilastfm">			<h3 class="widget-title">Musical Entanglements</h3>				<ul id="ilastfm_display">
+		            <li><a class = "lastimg" href="https://www.last.fm/music/Pavement/Quarantine+the+Past:+The+Best+of+Pavement" title="Pavement - Quarantine the Past: The Best of Pavement"><img src="http://www.samanz.com/wp-content/plugins/ilastfm/cache/49f1eb569155445991038d4f200fbd42.png" class="lastfm_album art0" alt="Pavement - Quarantine the Past: The Best of Pavement" /></a><a class = "lastinfo" href="https://www.last.fm/music/Pavement/Quarantine+the+Past:+The+Best+of+Pavement"><span class="lastfm_artist"><span class = "by">by </span><span class = "lastart">Pavement</span></span><span class="lastfm_album">Quarantine the Past: The Best of Pavement</span><span class="lastfm_playcount"> - 32</span></a><br/></li>
+<li><a class = "lastimg" href="https://www.last.fm/music/Love/Forever+Changes+(2015+Remastered+Version)" title="Love - Forever Changes (2015 Remastered Version)"><img src="http://www.samanz.com/wp-content/plugins/ilastfm/cache/6e388bec17e0cd830cd02eddf2e88399.png" class="lastfm_album art1" alt="Love - Forever Changes (2015 Remastered Version)" /></a><a class = "lastinfo" href="https://www.last.fm/music/Love/Forever+Changes+(2015+Remastered+Version)"><span class="lastfm_artist"><span class = "by">by </span><span class = "lastart">Love</span></span><span class="lastfm_album">Forever Changes (2015 Remastered Version)</span><span class="lastfm_playcount"> - 7</span></a><br/></li>
+<li><a class = "lastimg" href="https://www.last.fm/music/Pavement/Slanted+&+Enchanted:+Luxe+&+Reduxe" title="Pavement - Slanted & Enchanted: Luxe & Reduxe"><img src="http://www.samanz.com/wp-content/plugins/ilastfm/nocover.jpg" class="lastfm_album art2" alt="Pavement - Slanted & Enchanted: Luxe & Reduxe" /></a><a class = "lastinfo" href="https://www.last.fm/music/Pavement/Slanted+&+Enchanted:+Luxe+&+Reduxe"><span class="lastfm_artist"><span class = "by">by </span><span class = "lastart">Pavement</span></span><span class="lastfm_album">Slanted & Enchanted: Luxe & Reduxe</span><span class="lastfm_playcount"> - 6</span></a><br/></li>
+<li><a class = "lastimg" href="https://www.last.fm/music/Love/Black+Beauty" title="Love - Black Beauty"><img src="http://www.samanz.com/wp-content/plugins/ilastfm/cache/a06abcbfee744f2589f556d2fa63237e.png" class="lastfm_album art3" alt="Love - Black Beauty" /></a><a class = "lastinfo" href="https://www.last.fm/music/Love/Black+Beauty"><span class="lastfm_artist"><span class = "by">by </span><span class = "lastart">Love</span></span><span class="lastfm_album">Black Beauty</span><span class="lastfm_playcount"> - 4</span></a><br/></li>
+				</ul>
+		</li>						</ul>
+				</div><!-- #first .widget-area -->
+
+				<div id="links" class="widget-area">
+					<ul class="xoxo">
+						<li id="deliciousplus-2" class="widget-container widget_deliciousplus"><h3 class="widget-title"><a href='http://delicious.com/giantfoxpaws'>Uninteresting Links</a></h3>	<div id="deliciousplus-box-2" style="margin:0;padding:0;border:none;"> </div>
+	<script type="text/javascript">
+	var Delicious;
+	function makeItDelicious(data) {
+		Delicious = data;
+	}
+	</script>
+	<script type="text/javascript" src="http://feeds.delicious.com/v2/json/giantfoxpaws?count=5&callback=makeItDelicious"></script>
+	<script type="text/javascript">
+	function showImage(img){ return (function(){ img.style.display='inline'; }) }
+	var ul = document.createElement('ul');
+	for (var i=0, post; post = Delicious[i]; i++) {
+		var li = document.createElement('li');
+		var a = document.createElement('a');
+		a.setAttribute('href', post.u);
+		a.setAttribute('class', 'deliciousplus-post');
+		a.innerHTML = post.d;
+				li.appendChild(a);
+		if (post.n) { li.innerHTML += '<span class="deliciousplus-description">'+unescape(post.n)+'</span>' }				ul.appendChild(li);
+	}
+	document.getElementById('deliciousplus-box-2').appendChild(ul);
+	</script>
+	<noscript><a href="http://delicious.com/giantfoxpaws">my delicious</a></noscript>
+</li>					</ul>
+				</div><!-- #second .widget-area -->
+
+
+
+			</div><!-- #footer-widget-area -->
+
+			<div id="site-info">
+				<p id = "copy">
+					Design Created by Sam Anzaroot, Copyright &copy; 2016
+				</p>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+	<div style="display:none">
+	</div>
+<link rel='stylesheet' id='grunion.css-css'  href='http://www.samanz.com/wp-content/plugins/jetpack/modules/contact-form/css/grunion.css?ver=2.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='//platform.twitter.com/widgets.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201649'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Decaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.samanz.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.5.1'></script>
+
+	<script src="http://stats.wordpress.com/e-201649.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:2.5.2',blog:'60473260',post:'2',tz:'0'});
+	var load_cmc = function(){linktracker_init(60473260,2,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></body>
+</html>
