@@ -1,0 +1,30 @@
+html { background:url(images/top.png) repeat-x #e3e3e3;} 
+/*body { background:#ECF0E7; opacity:.8;}*/
+body.home {background:url(images/empire.png) no-repeat 700px top; }
+
+a img { border:0; }
+
+/* body { background:url(images/body-opacity.png); } */
+#branding { background:#000; opacity:.45; }
+#branding h1#textual { text-indent:-5000px; padding:0; margin:0; height:0; width:0; }
+
+#content { }
+
+/*#nav { background:#fedf0e; }
+#nav li a { border:1px solid #f4d50d; border-top:1px solid #9e8b09; border-left:0;} */
+#nav li a { background:#bbb; border-right:1px solid #aaa; opacity:.7;}
+#nav li a:hover { background:#FED319; display:block; }
+
+/* #top_post p.date, #post p.date { background:url(images/date-bk.png); }*/
+
+/*#secondary { background:url(images/arrow-bk.gif) 100% 0% no-repeat;}*/
+
+#secondary h3, #secondary ul.box h3 { display:inline; float:left; padding:3px; opacity:1;} /* D6D4A9 */
+#secondary p, #secondary ul.box li { display:inline; float:left; clear:left; padding:3px; opacity:.9;}
+
+#comments ul dt { border-top:2px solid #999879; }
+#comments ul dd { border-top:2px solid #999879;}
+
+#footer { background:#000 url(images/bridge.png) no-repeat bottom left;}
+#footer ul ul { opacity:.65; }
+#footer ul ul:hover { opacity:8; }

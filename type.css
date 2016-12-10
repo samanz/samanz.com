@@ -1,0 +1,62 @@
+body { font-family:georgia,times,"Times New Roman",serif; }
+input, textarea { font-size:12px; font-family:georgia, times, "Times New Roman", serif; padding:2px; margin-bottom:10px;}
+a { color:#036AA6;}
+a:hover { color:#369CC9;}
+h1, h2, h3 { font-family:raleway-1;}
+#footer a { color:#2FC2EF; }
+#branding h2 { font-size:14px; }
+#branding p a { color:#f9ed9e; font-size:12px; }
+#nav li a {text-transform:uppercase; color:#000; text-decoration:none; font-size:14px; font-family:museo-slab-1,"museo-slab-1"; }
+
+/* Secondary */
+#secondary { color:#222; font-size:12px;}
+#secondary h3 { font-size:15px; text-transform:uppercase; }
+#secondary ul.box a { color:#000; text-decoration:none; }
+#secondary ul.box a:hover { color:#000; text-decoration:underline; }
+
+/* Front Page */
+#top_post h2 { font-size:36px; font-weight:lighter; } 
+#top_post h2 a { font-size:36px; color:#000; text-decoration:none; }
+#top_post h2 a:hover { text-decoration:underline; }
+
+#top_post p { font-size:14px; line-height:1.4em; padding:3px 0 10px; }
+#top_post p.date { font-variant:small-caps; color:#777; font-size:16px; line-height:1em; }
+
+ul#more_posts p { font-size:12px; color:#222; line-height:16px; }
+ul#more_posts p.date { font-size:12px; color:#333;}
+ul#more_posts h2 { font-size:16px; padding-bottom:20px; height:30px;  }
+ul#more_posts h2 a { color:#000; text-decoration:none;  }
+ul#more_posts h2 a:hover { text-decoration:underline;  }
+
+#footer { color:#ddd; font-size:12px; }
+#footer h3 { color:#fff; font-size:13px; text-transform:uppercase; padding-bottom:15px;}
+#footer h3 a { color:#fff; text-decoration:none; }
+#footer h3 a:hover { color:#fff; text-decoration:underline; }
+#footer legend { margin:0 0 0; padding:0; position:block; font-variant:small-caps; font-size:13px; }
+#footer label { margin:0; padding:0; display:block; }
+#third ul { list-style:none; }
+#songs li img { width:40px; }
+#songs li { overflow:hidden; }
+#songs li a { float:left; display:block;}
+#songs li a.lastimg { width: 50px; }
+#songs li a.lastinfo { width: 137px;}
+#songs li a { font-size:13px; color:#eee; text-decoration:none; }
+#songs li a.artist { font-size:11px; color:#eee; }
+#songs li span.lastfm_music { text-decoration:underline; font-size:11px; }
+#songs li span.lastfm_artist { display:block; font-size:10px; }
+#songs li span.lastfm_artist span.by { text-decoration:none; }
+#songs li span.lastfm_artist span.lastart { text-decoration:underline; }
+
+#songs li span.lastfm_artist { display:block; font-size:10px; }
+#songs li span.lastfm_playcount { display:none; }
+
+/* Post Page */
+#post h2 { font-size:36px; } 
+#post h2 a { font-size:36px; color:#000; text-decoration:none; }
+#post h2 a:hover { text-decoration:underline; }
+#post p.date { text-indent:0; font-variant:small-caps; color:#777; font-size:16px; line-height:1em; }
+#post p#first_p { font-size:19px; line-height:1.4em; padding:0 0 0; text-indent:0; }
+#post p { font-size:14px; line-height:1.4em; padding:0 0 0; text-indent:0; }
+#comments dd { font-size:13px; }
+#comments ul dt em { font-size:13px; color:#555; }
+#comments textarea { font-size:14px; line-height:1.4em; }
