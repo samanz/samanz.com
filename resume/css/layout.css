@@ -1,0 +1,149 @@
+body {
+    padding: 3em;
+    background: #eee;
+    font-family: Verdana, Helvetica;
+}
+
+article {
+    max-width: 65em;
+    margin: auto;
+    padding: 3em 5em;
+    border: 1px solid #000;
+    background: white;
+}
+
+article
+{
+    position:relative;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+article:before, article:after
+{
+    content:"";
+    position:absolute;
+    z-index:-1;
+    -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:0 0 20px rgba(0,0,0,0.8);
+    top:0;
+    bottom:0;
+    left:10px;
+    right:10px;
+    -moz-border-radius:100px / 10px;
+    border-radius:100px / 10px;
+}
+article:after
+{
+    right:10px;
+    left:auto;
+    -webkit-transform:skew(8deg) rotate(3deg);
+       -moz-transform:skew(8deg) rotate(3deg);
+        -ms-transform:skew(8deg) rotate(3deg);
+         -o-transform:skew(8deg) rotate(3deg);
+            transform:skew(8deg) rotate(3deg);
+}
+
+span.ref {
+    display: none;
+}
+
+header p, header h1 {
+    margin:0;
+    padding:0;
+}
+
+article {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: auto auto auto;
+    grid-template-areas: 
+    "header contact"
+    "work education"
+    "publications skills"
+}
+
+header {
+    grid-area: header;
+    padding: 0 0 4em;
+}
+
+section#contact {
+    grid-area: contact;
+}
+
+section#education {
+    grid-area:education
+}
+
+section#skills {
+    grid-area: skills;
+}
+
+section#work {
+    grid-area: work
+}
+
+section#publications {
+    grid-area: publications
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.3em;
+    font-weight: normal;
+    color: firebrick;
+    text-transform: uppercase;
+}
+
+section.coursework {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+    color:#333
+}
+
+h3 {
+    font-weight: bold;
+    display: inline;
+}
+
+section#contact span {
+    padding: 0.3em;
+    font-weight:bold;
+}
+
+ul {
+    padding: 0 3em 0 0;
+}
+
+#publications li {
+    margin: 0.9em 0;
+}
+
+#publications p {
+    padding: 0;
+    margin: 0.3em 0;
+}
+
+#publications p.authors, #publications p.venue {
+    font-size:0.85em;
+}
+
+#publications a {
+    font-weight: bold;
+}
+
+#work h4 {
+    margin:0;
+    padding:0;
+    font-weight:normal;
+    font-size:1em;
+}
