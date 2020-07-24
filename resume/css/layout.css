@@ -113,6 +113,8 @@ a {
 h3 {
     font-weight: bold;
     display: inline;
+    font-size:1.5em;
+    padding-top:3em;
 }
 
 section#contact span {
@@ -125,7 +127,7 @@ ul {
 }
 
 #publications li {
-    margin: 0.9em 0;
+    margin: 1.5em 0;
 }
 
 #publications p {
@@ -157,9 +159,11 @@ ul {
 
 span.date {
     display: inline-block;
-    width: 10em;
+    width: 12em;
     border-right: 2px solid firebrick;
     margin: 2px 0;
+    text-align: right;
+    padding-right: 1em;
 }
 
 span.title {
@@ -169,5 +173,21 @@ span.title {
 
 
 #education span.date {
-    width:4.5em;
+    width:5.5em;
+}
+
+#education div, #work div {
+    padding: 0 0 2em;
+}
+
+#work ul, #publications ul { 
+    list-style-type: none;
+}
+
+#work li {
+    padding:0.5em 0;
+}
+
+#work h5 {
+    display: none;
 }
