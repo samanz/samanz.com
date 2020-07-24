@@ -147,3 +147,27 @@ ul {
     font-weight:normal;
     font-size:1em;
 }
+
+#education h4 {
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+    font-size:1em;
+}
+
+span.date {
+    display: inline-block;
+    width: 10em;
+    border-right: 2px solid firebrick;
+    margin: 2px 0;
+}
+
+span.title {
+    font-style: italic;
+    margin-left: 1em;
+}
+
+
+#education span.date {
+    width:4.5em;
+}
