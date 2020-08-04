@@ -202,3 +202,8 @@ p.award {
     margin-top: -10px;
     color: gray;
 }
+
+#skills li {
+    display: inline-block;
+    padding: 0.3em 0.5em;
+}
