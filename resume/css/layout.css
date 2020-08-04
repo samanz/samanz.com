@@ -5,7 +5,7 @@ body {
 }
 
 article {
-    max-width: 65em;
+    max-width: 90em;
     margin: auto;
     padding: 3em 5em;
     border: 1px solid #000;
@@ -189,5 +189,9 @@ span.title {
 }
 
 #work h5 {
+    display: none;
+}
+
+p.GPA {
     display: none;
 }
