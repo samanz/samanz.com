@@ -9,10 +9,37 @@
         margin:0;
         border:0;
         padding:2em;
+        font-size:0.5em;
     }
 
     article:before, article:after {
         all: initial;
     }
+
+
     
   }
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    body {
+        padding:0;
+        background: white;
+      }
+    
+      article {
+          max-width: 100%;
+          margin:0;
+          border:0;
+          padding:2em;
+          font-size:0.5em;
+      }
+  
+      article:before, article:after {
+          all: initial;
+      }
+  
+  }
+  
