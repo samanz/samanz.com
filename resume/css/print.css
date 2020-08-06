@@ -10,6 +10,9 @@
         border:0;
         padding:2em;
         font-size:0.5em;
+        -webkit-box-shadow:0;
+        -moz-box-shadow:0;
+        box-shadow:0; 
     }
 
     article:before, article:after {
