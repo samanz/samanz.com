@@ -217,3 +217,13 @@ p.award {
 span.term {
     font-weight: bold;
 }
+
+a.fas.fa-file-pdf.pdf {
+    font-size: 0.25em;
+    text-decoration: underline;
+}
+
+a.fas.fa-file-pdf.pdf:hover {
+    font-size: 0.25em;
+    text-decoration: none;
+}
